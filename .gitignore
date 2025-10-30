@@ -52,6 +52,7 @@ coverage.xml
 cover/
 
 venv/
+main.py/
 # Translations
 *.mo
 *.pot
